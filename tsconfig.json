@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "module": "ESNext",
+    "target": "ESNext",
+    "moduleResolution": "NodeNext",
+    "allowJs": true,
+    "types": ["webpack/module","node"]
+  },
+  "files": ["src/index.ts"]
+}
